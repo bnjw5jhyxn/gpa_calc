@@ -7,6 +7,17 @@ The grade point average is an average of the grade points from each course,
 weighted by the number of credits that course carries.
 Grades of P (pass) and F (fail) to not contribute to a student's GPA.
 
+| letter grade | grade points |
+| --- | --- |
+| A | 4.0 |
+| B+ | 3.5 |
+| B | 3.0 |
+| C+ | 2.5 |
+| C | 2.0 |
+| D | 1.0 |
+| P | N/A |
+| F | N/A |
+
 Usage:
 ```
 ./gpa <file1> <file2> ...
