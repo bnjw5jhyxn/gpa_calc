@@ -1,5 +1,11 @@
 # gpa\_calc
 
+Usage:
+```
+./gpa <file1> <file2> ...
+```
+where `file1`, `file2`, etc. are text files.
+
 The file format consists of lines of the form
 ```
 <C> <G>...\n
