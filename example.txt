@@ -1,0 +1,38 @@
+fall 2015
+1	P	The Byrne Seminars
+3	A	Honors College mission
+4	A	Organic Chemistry I
+1.5	P	Writing Center
+3	B	Exposition and Argument
+4	A	Elementary Japanese I
+4	A	Multivariable Calculus
+
+spring 2016
+4	C+	Organic Chemistry II
+4	A	Introduction to Computer Science
+4	B+	Genetics
+4	A	Elementary Japanese II
+3	A	Introduction to Linear Algebra
+
+fall 2016
+4	A	Data Structures
+4	A	Introduction to Discrete Structures I
+4	A	Intermediate Japanese I
+3	A	Mathematical Theory of Probability
+3	A	General Physics II
+1	A	General Physics II lab
+
+spring 2017
+3	A	Interdisciplinary Honors Seminar
+4	A	Computer Architecture
+4	A	Design and Analysis of Computer Algorithms
+4	A	Intermediate Japanese II
+3	A	Introduction to Mathematical Reasoning
+
+fall 2017
+4	A	Systems Programming
+4	A	Principles of Programming Languages
+1.5	P	Aresty Research Assistant Program
+3	A	Advanced Japanese I
+3	A	Elementary Differential Equations
+3	A	Introduction to Sociology
