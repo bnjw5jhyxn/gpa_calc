@@ -1,5 +1,5 @@
-gpa: gpa.c
-	gcc -Wall -g -o gpa gpa.c
+gpa: gpa.sml
+	mlton gpa.sml
 
 .PHONY: clean
 clean:

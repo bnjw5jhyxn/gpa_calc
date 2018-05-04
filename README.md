@@ -17,6 +17,7 @@ Grades of P (pass) and F (fail) to not contribute to a student's GPA.
 | D | 1.0 |
 | P | N/A |
 | F | N/A |
+| W | N/A |
 
 Usage:
 ```
