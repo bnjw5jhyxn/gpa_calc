@@ -25,6 +25,7 @@ fun printGpa (filename) =
    let
       val f = TextIO.openIn filename
       val (c, p) = sumPoints (0.0, 0.0, f)
+      val () = TextIO.closeIn f
       val gpa = p / c
    in
       print (concat [filename, ": ", Real.toString c, " credits, ",
