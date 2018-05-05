@@ -1,10 +1,10 @@
 val letterToPoints = fn
-   "A" => SOME(4.0)
- | "B+" => SOME(3.5)
- | "B" => SOME(3.0)
- | "C+" => SOME(2.5)
- | "C" => SOME(2.0)
- | "D" => SOME(1.0)
+   "A" => SOME 4.0
+ | "B+" => SOME 3.5
+ | "B" => SOME 3.0
+ | "C+" => SOME 2.5
+ | "C" => SOME 2.0
+ | "D" => SOME 1.0
  | _ => NONE
 
 fun sumPoints (credits, points, stream) =
@@ -32,5 +32,6 @@ fun printGpa (filename) =
                      Real.toString p, " points, average ",
                      Real.toString gpa, "\n"])
    end
+   handle Io => print (concat ["could not read ", filename, "\n"])
 
 val () = app printGpa (CommandLine.arguments ())
